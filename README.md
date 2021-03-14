@@ -13,7 +13,7 @@ Project is created with:
 * Ament library version: 999
 
 ## Launch
-*[go to website!](https://polar-bastion-38087.herokuapp.com/)
+* [go to website!](https://polar-bastion-38087.herokuapp.com/)
 
 ## Sources
 *
