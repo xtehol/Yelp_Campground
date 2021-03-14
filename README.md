@@ -3,17 +3,17 @@
 * [Technologies](#technologies)
 * [Sources](#sources)
 
-##General Info
+## General Info
 *
 
-##Technologies
+## Technologies
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
 
-##Launch
+## Launch
 *[go to website!](https://polar-bastion-38087.herokuapp.com/)
 
-#Sources
+## Sources
 *
