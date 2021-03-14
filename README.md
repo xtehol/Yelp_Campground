@@ -4,7 +4,12 @@
 * [Sources](#sources)
 
 ## General Info
-*
+* HTML5
+* NodeJS
+* ExpressJS
+* MongoDB
+* Alta
+* Heroku
 
 ## Technologies
 Project is created with (package.json; verified 3/14/21):
