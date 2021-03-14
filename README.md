@@ -38,4 +38,4 @@ Project is created with (package.json; verified 3/14/21):
 * [go to website!](https://polar-bastion-38087.herokuapp.com/)
 
 ## Sources
-*Colt Steele
+* Colt Steele
