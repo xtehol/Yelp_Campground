@@ -7,7 +7,7 @@
 *
 
 ## Technologies
-Project is created with (package.json):
+Project is created with (package.json; verified 3/14/21):
 * "@mapbox/mapbox-sdk": "^0.11.0",
 * "cloudinary": "^1.23.0",
 * "connect-flash": "^0.1.1",
