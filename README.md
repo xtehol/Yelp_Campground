@@ -1,6 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Launch](#launch)
 * [Sources](#sources)
 
 ## General Info
